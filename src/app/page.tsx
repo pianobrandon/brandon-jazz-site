@@ -17,7 +17,7 @@ export default function BrandonNelsonJazzSite() {
           </h1>
 
           <p className="text-xl md:text-2xl text-[#d4c4a8] italic mb-8">
-            Jazz Pianist • Performer • Educator
+            Musician • Educator • Composer
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -53,7 +53,7 @@ export default function BrandonNelsonJazzSite() {
             <h2 className="text-5xl mb-8 text-[#d4c4a8]">About</h2>
 
             <p className="text-lg leading-9 text-[#e7dfcf] mb-6">
-              Brandon Nelson is a Portland-based jazz pianist known for elegant
+              Brandon Nelson is a Portland-based jazz pianist known for engaging
               performances, expressive improvisation, and a deep appreciation
               for the timeless traditions of jazz.
             </p>
@@ -84,19 +84,24 @@ export default function BrandonNelsonJazzSite() {
         <div className="max-w-4xl mx-auto space-y-6">
           {[
             {
-              venue: 'Jazz Station',
+              venue: 'Jazz Station w/ Tip Top feat. Noah Simpson',
               date: 'May 21st, 2026',
               time: '7-9pm',
             },
             {
-              venue: 'Keys Lounge',
+              venue: 'Keys Lounge w/ Tip Top',
               date: 'May 23rd, 2026',
               time: '10-midnight',
             },
             {
-              venue: 'Jo Bar',
+              venue: 'Jo Bar w/ Tip Top',
               date: 'May 24th, 2026',
               time: '7-10pm',
+            },
+            {
+              venue: 'Xport Lounge w/ Brigitta Teuscher',
+              date: 'May 21st, 2026',
+              time: '7-9pm',
             },
           ].map((show, index) => (
             <div
