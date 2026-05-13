@@ -126,7 +126,7 @@ export default function BrandonNelsonJazzSite() {
 
             <p className="text-lg leading-9 text-[#e7dfcf] mb-6">
               Brandon offers private piano lessons for students of all levels,
-              from beginners to advanced musicians interested in jazz harmony,
+              from beginners to advanced musicians interested in classical music, jazz harmony,
               improvisation, technique, and performance.
             </p>
 
