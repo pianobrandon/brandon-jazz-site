@@ -139,28 +139,23 @@ export default function BrandonNelsonJazzSite() {
               time: '7-9pm',
             },
             {
-              venue: 'Xport Loung w/ Brigitta Teuscher',
+              venue: 'Xport Lounge w/ Brigitta Teuscher',
               date: 'July 9th, 2026',
               time: '7-9pm',
             },
             {
-              venue: 'Xport Loung w/ Brigitta Teuscher',
+              venue: 'Xport Lounge w/ Brigitta Teuscher',
               date: 'July 16th, 2026',
               time: '7-9pm',
             },
             {
-              venue: 'Xport Loung w/ Brigitta Teuscher',
+              venue: 'Xport Lounge w/ Brigitta Teuscher',
               date: 'July 23rd, 2026',
               time: '7-9pm',
             },
             {
-              venue: 'Xport Loung w/ Brigitta Teuscher',
+              venue: 'Xport Lounge w/ Brigitta Teuscher',
               date: 'July 30th, 2026',
-              time: '7-9pm',
-            },
-            {
-              venue: 'Xport Loung w/ Brigitta Teuscher',
-              date: 'July 9th, 2026',
               time: '7-9pm',
             },
           ].map((show, index) => (
