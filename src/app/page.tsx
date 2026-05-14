@@ -208,6 +208,38 @@ export default function BrandonNelsonJazzSite() {
           </div>
         </div>
       </section>
+      <section className="py-24 px-6 bg-black text-white">
+  <div className="max-w-3xl mx-auto text-center">
+    <h2 className="text-4xl font-bold mb-6">
+      Join the Mailing List
+    </h2>
+
+    <p className="text-gray-300 mb-10 text-lg">
+      Stay updated on upcoming performances, jazz nights, and special events.
+    </p>
+
+    <form
+      action="https://formspree.io/f/mjgldjbr"
+      method="POST"
+      className="flex flex-col sm:flex-row gap-4 justify-center"
+    >
+      <input
+        type="email"
+        name="email"
+        placeholder="Enter your email"
+        required
+        className="px-5 py-4 rounded-xl bg-[#181818] border border-[#333] text-white w-full"
+      />
+
+      <button
+        type="submit"
+        className="bg-[#d4c4a8] text-black px-8 py-4 rounded-xl font-semibold hover:opacity-90 transition"
+      >
+        Subscribe
+      </button>
+    </form>
+  </div>
+</section>
 
       {/* Contact Section */}
       <section
