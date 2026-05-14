@@ -14,11 +14,13 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Home | Brandon Nelson",
-  description: "Portland jazz pianist available for performances, lessons, and private events.",
+  description:
+    "Portland jazz pianist available for performances, lessons, and private events.",
   icons: {
     icon: "/images/logo.png",
   },
 };
+
 export default function RootLayout({
   children,
 }: Readonly<{
