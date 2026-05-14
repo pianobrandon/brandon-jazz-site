@@ -118,6 +118,51 @@ export default function BrandonNelsonJazzSite() {
               date: 'June 18th, 2026',
               time: '7-9pm',
             },
+            {
+              venue: 'Pono Ranch Restaurant & Bar w/ Scott Pemberton',
+              date: 'June 19th, 2026',
+              time: '9-midnight',
+            },
+            {
+              venue: 'Guemas Island General Store w/ Scott Pemberton',
+              date: 'June 20th, 2026',
+              time: '6:30-9:30pm',
+            },
+            {
+              venue: 'Christos w/ Paula Byrne',
+              date: 'June 27th, 2026',
+              time: '7-9pm',
+            },
+            {
+              venue: 'High Sierra Music Festival w/ Scott Pemberton',
+              date: 'July 4th, 2026',
+              time: '7-9pm',
+            },
+            {
+              venue: 'Xport Loung w/ Brigitta Teuscher',
+              date: 'July 9th, 2026',
+              time: '7-9pm',
+            },
+            {
+              venue: 'Xport Loung w/ Brigitta Teuscher',
+              date: 'July 16th, 2026',
+              time: '7-9pm',
+            },
+            {
+              venue: 'Xport Loung w/ Brigitta Teuscher',
+              date: 'July 23rd, 2026',
+              time: '7-9pm',
+            },
+            {
+              venue: 'Xport Loung w/ Brigitta Teuscher',
+              date: 'July 30th, 2026',
+              time: '7-9pm',
+            },
+            {
+              venue: 'Xport Loung w/ Brigitta Teuscher',
+              date: 'July 9th, 2026',
+              time: '7-9pm',
+            },
           ].map((show, index) => (
             <div
               key={index}
