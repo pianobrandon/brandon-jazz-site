@@ -17,8 +17,8 @@ export const metadata: Metadata = {
   description: "Portland jazz pianist available for performances, lessons, and private events.",
   icons: {
     icon: "/images/logo.png",
+  },
 };
-
 export default function RootLayout({
   children,
 }: Readonly<{
