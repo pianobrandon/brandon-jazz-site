@@ -104,6 +104,11 @@ export default function BrandonNelsonJazzSite() {
               time: '7-9pm',
             },
             {
+              venue: 'Alberta St. Pub w/ Donna Jones',
+              date: 'June 5th, 2026',
+              time: '6-8pm',
+            },
+            {
               venue: 'Xport Lounge w/ Brigitta Teuscher',
               date: 'June 11th, 2026',
               time: '7-9pm',
