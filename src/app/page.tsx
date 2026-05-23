@@ -84,11 +84,6 @@ export default function BrandonNelsonJazzSite() {
         <div className="max-w-4xl mx-auto space-y-6">
           {[
             {
-              venue: 'Jazz Station w/ Tip Top feat. Noah Simpson',
-              date: 'May 21st, 2026',
-              time: '7-9pm',
-            },
-            {
               venue: 'Keys Lounge w/ Tip Top',
               date: 'May 23rd, 2026',
               time: '10-midnight',
