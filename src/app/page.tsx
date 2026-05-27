@@ -89,6 +89,11 @@ export default function BrandonNelsonJazzSite() {
               time: '7-9pm',
             },
             {
+              venue: 'Oregon Wine Country Half Marathon in Dayton w/ Brigitta Teuscher',
+              date: 'May 31tst, 2026',
+              time: '8:30-11:30am',
+            },
+            {
               venue: 'Alberta St. Pub w/ Donna Jones',
               date: 'June 5th, 2026',
               time: '6-8pm',
