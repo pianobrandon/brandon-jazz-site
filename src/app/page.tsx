@@ -84,16 +84,6 @@ export default function BrandonNelsonJazzSite() {
         <div className="max-w-4xl mx-auto space-y-6">
           {[
             {
-              venue: 'Keys Lounge w/ Tip Top',
-              date: 'May 23rd, 2026',
-              time: '10-midnight',
-            },
-            {
-              venue: 'Jo Bar w/ Tip Top',
-              date: 'May 24th, 2026',
-              time: '7-10pm',
-            },
-            {
               venue: 'Xport Lounge w/ Brigitta Teuscher',
               date: 'May 28th, 2026',
               time: '7-9pm',
