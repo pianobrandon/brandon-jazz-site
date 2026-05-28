@@ -134,8 +134,8 @@ export default function BrandonNelsonJazzSite() {
               time: '7-9pm',
             },
             {
-              venue: 'Xport Lounge w/ Brigitta Teuscher',
-              date: 'July 16th, 2026',
+              venue: 'Skyway Bar and Grill w/ Scott Pemberton',
+              date: 'July 17th, 2026',
               time: '7-9pm',
             },
             {
@@ -145,7 +145,27 @@ export default function BrandonNelsonJazzSite() {
             },
             {
               venue: 'Xport Lounge w/ Brigitta Teuscher',
-              date: 'July 30th, 2026',
+              date: 'August 13th, 2026',
+              time: '7-9pm',
+            },
+            {
+              venue: 'Xport Lounge w/ Brigitta Teuscher',
+              date: 'August 27th, 2026',
+              time: '7-9pm',
+            },
+            {
+              venue: 'Thai Lahnna w/ Paula Byrne',
+              date: 'August 28th, 2026',
+              time: '5:30-8pm',
+            },
+            {
+              venue: 'Xport Lounge w/ Brigitta Teuscher',
+              date: 'September 10th, 2026',
+              time: '7-9pm',
+            },
+            {
+              venue: 'Xport Lounge w/ Brigitta Teuscher',
+              date: 'September 24th, 2026',
               time: '7-9pm',
             },
           ].map((show, index) => (
