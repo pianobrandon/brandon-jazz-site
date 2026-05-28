@@ -149,6 +149,21 @@ export default function BrandonNelsonJazzSite() {
               time: '7-9pm',
             },
             {
+              venue: 'Forester Club, ID w/ Scott Pemberton',
+              date: 'August 21st, 2026',
+              time: '7-9pm',
+            },
+            {
+              venue: 'Music on the Mountain, ID w/ Scott Pemberton',
+              date: 'August 22nd, 2026',
+              time: '7-9pm',
+            },
+            {
+              venue: 'Concerts at Commons Beach, CA w/ Scott Pemberton',
+              date: 'August 23rd, 2026',
+              time: '7-9pm',
+            },
+            {
               venue: 'Xport Lounge w/ Brigitta Teuscher',
               date: 'August 27th, 2026',
               time: '7-9pm',
