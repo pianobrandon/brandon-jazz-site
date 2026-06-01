@@ -84,16 +84,6 @@ export default function BrandonNelsonJazzSite() {
         <div className="max-w-4xl mx-auto space-y-6">
           {[
             {
-              venue: 'Xport Lounge w/ Brigitta Teuscher',
-              date: 'May 28th, 2026',
-              time: '7-9pm',
-            },
-            {
-              venue: 'Oregon Wine Country Half Marathon in Dayton w/ Brigitta Teuscher',
-              date: 'May 31tst, 2026',
-              time: '8:30-11am',
-            },
-            {
               venue: 'Alberta St. Pub w/ Donna Jones',
               date: 'June 5th, 2026',
               time: '6-8pm',
