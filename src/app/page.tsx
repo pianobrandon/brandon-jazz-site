@@ -173,6 +173,11 @@ export default function BrandonNelsonJazzSite() {
               date: 'September 24th, 2026',
               time: '7-9pm',
             },
+            {
+              venue: 'Jo Bar w/ Tip Top',
+              date: 'October 18th, 2026',
+              time: '7-10pm',
+            },
           ].map((show, index) => (
             <div
               key={index}
