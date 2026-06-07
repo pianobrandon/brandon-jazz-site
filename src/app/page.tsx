@@ -84,11 +84,6 @@ export default function BrandonNelsonJazzSite() {
         <div className="max-w-4xl mx-auto space-y-6">
           {[
             {
-              venue: 'Alberta St. Pub w/ Donna Jones',
-              date: 'June 5th, 2026',
-              time: '6-8pm',
-            },
-            {
               venue: 'Xport Lounge w/ Brigitta Teuscher',
               date: 'June 11th, 2026',
               time: '7-9pm',
@@ -176,6 +171,11 @@ export default function BrandonNelsonJazzSite() {
             {
               venue: 'Jo Bar w/ Tip Top',
               date: 'October 18th, 2026',
+              time: '7-10pm',
+            },
+            {
+              venue: 'Jo Bar w/ Tip Top',
+              date: 'December 20th, 2026',
               time: '7-10pm',
             },
           ].map((show, index) => (
