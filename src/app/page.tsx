@@ -179,6 +179,11 @@ export default function BrandonNelsonJazzSite() {
               time: '7-9pm',
             },
             {
+              venue: 'Christos w/ Paula Byrne',
+              date: 'October 10th, 2026',
+              time: '7-9pm',
+            },
+            {
               venue: 'Jo Bar w/ Tip Top',
               date: 'October 18th, 2026',
               time: '7-10pm',
