@@ -164,6 +164,16 @@ export default function BrandonNelsonJazzSite() {
               time: '7-9pm',
             },
             {
+              venue: 'Mississippi Studios w/ Scott Pemberton',
+              date: 'September 11th, 2026',
+              time: '8-10pm',
+            },
+            {
+              venue: 'Blairally Vintage Arcade w/ Scott Pemberton',
+              date: 'September 12th, 2026',
+              time: '8-10pm',
+            },
+            {
               venue: 'Xport Lounge w/ Brigitta Teuscher',
               date: 'September 24th, 2026',
               time: '7-9pm',
