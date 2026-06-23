@@ -84,21 +84,6 @@ export default function BrandonNelsonJazzSite() {
         <div className="max-w-4xl mx-auto space-y-6">
           {[
             {
-              venue: 'Xport Lounge w/ Brigitta Teuscher',
-              date: 'June 18th, 2026',
-              time: '7-9pm',
-            },
-            {
-              venue: 'Pono Ranch Restaurant & Bar w/ Scott Pemberton',
-              date: 'June 19th, 2026',
-              time: '9-midnight',
-            },
-            {
-              venue: 'Guemas Island General Store w/ Scott Pemberton',
-              date: 'June 20th, 2026',
-              time: '6:30-9:30pm',
-            },
-            {
               venue: 'Christos w/ Paula Byrne',
               date: 'June 27th, 2026',
               time: '7-9pm',
@@ -223,7 +208,8 @@ export default function BrandonNelsonJazzSite() {
             <ul className="space-y-4 text-[#e7dfcf] text-lg">
               <li>• Jazz improvisation & soloing</li>
               <li>• Music theory & ear training</li>
-              <li>• Piano technique & voicings</li>
+              <li>• Piano technique</li>
+              <li>• Jazz harmony & voicings</li>
               <li>• Performance coaching</li>
               <li>• Personalized lesson plans</li>
             </ul>
