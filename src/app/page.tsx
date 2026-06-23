@@ -139,6 +139,11 @@ export default function BrandonNelsonJazzSite() {
               time: '5:30-8pm',
             },
             {
+              venue: 'Guemes Island General Store w/ Scott Pemberton',
+              date: 'September 5th, 2026',
+              time: '7-9pm',
+            },
+            {
               venue: 'Xport Lounge w/ Brigitta Teuscher',
               date: 'September 10th, 2026',
               time: '7-9pm',
