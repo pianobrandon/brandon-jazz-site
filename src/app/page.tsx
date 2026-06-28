@@ -84,11 +84,6 @@ export default function BrandonNelsonJazzSite() {
         <div className="max-w-4xl mx-auto space-y-6">
           {[
             {
-              venue: 'Christos w/ Paula Byrne',
-              date: 'June 27th, 2026',
-              time: '7-9pm',
-            },
-            {
               venue: 'High Sierra Music Festival w/ Scott Pemberton',
               date: 'July 4th, 2026',
               time: '7-9pm',
