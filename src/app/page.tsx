@@ -84,11 +84,6 @@ export default function BrandonNelsonJazzSite() {
         <div className="max-w-4xl mx-auto space-y-6">
           {[
             {
-              venue: 'Xport Lounge w/ Brigitta Teuscher',
-              date: 'July 9th, 2026',
-              time: '7-9pm',
-            },
-            {
               venue: 'Skyway Bar and Grill w/ Scott Pemberton',
               date: 'July 17th, 2026',
               time: '7-9pm',
