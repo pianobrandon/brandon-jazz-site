@@ -84,16 +84,6 @@ export default function BrandonNelsonJazzSite() {
         <div className="max-w-4xl mx-auto space-y-6">
           {[
             {
-              venue: 'Xport Lounge w/ Brigitta Teuscher',
-              date: 'July 23rd, 2026',
-              time: '7-9pm',
-            },
-            {
-              venue: 'Xport Lounge w/ Brigitta Teuscher',
-              date: 'August 13th, 2026',
-              time: '7-9pm',
-            },
-            {
               venue: 'Forester Club, ID w/ Scott Pemberton',
               date: 'August 21st, 2026',
               time: '7-9pm',
@@ -141,11 +131,6 @@ export default function BrandonNelsonJazzSite() {
             {
               venue: 'Xport Lounge w/ Brigitta Teuscher',
               date: 'September 24th, 2026',
-              time: '7-9pm',
-            },
-            {
-              venue: 'Christos w/ Paula Byrne',
-              date: 'October 10th, 2026',
               time: '7-9pm',
             },
             {
