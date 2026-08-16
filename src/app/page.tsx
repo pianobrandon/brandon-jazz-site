@@ -163,6 +163,65 @@ export default function BrandonNelsonJazzSite() {
         </div>
       </section>
 
+      {/* Listen Section */}
+      <section id="listen" className="py-24 px-6 md:px-16 bg-[#161616]">
+        <div className="max-w-5xl mx-auto">
+          <div className="text-center mb-16">
+            <h2 className="text-5xl text-[#d4c4a8] mb-4">Listen</h2>
+            <p className="text-lg text-[#d7d0c0]">
+              Jazz standards and original music.
+            </p>
+          </div>
+
+          <div className="space-y-10">
+            <div>
+              <h3 className="text-2xl text-[#f5f1e8] mb-4">
+                Ev&apos;ry Time We Say Goodbye
+              </h3>
+
+              <iframe
+                width="100%"
+                height="166"
+                scrolling="no"
+                frameBorder="no"
+                allow="autoplay"
+                src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/brandon-nelson-304432277/evrytime-we-say-goodbye"
+                title="Ev'ry Time We Say Goodbye by Brandon Nelson"
+                className="rounded-xl"
+              ></iframe>
+            </div>
+
+            <div>
+              <h3 className="text-2xl text-[#f5f1e8] mb-4">
+                New Day
+              </h3>
+
+              <iframe
+                width="100%"
+                height="166"
+                scrolling="no"
+                frameBorder="no"
+                allow="autoplay"
+                src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/brandon-nelson-304432277/new-day"
+                title="New Day by Brandon Nelson"
+                className="rounded-xl"
+              ></iframe>
+            </div>
+          </div>
+
+          <div className="text-center mt-12">
+            <a
+              href="https://soundcloud.com/brandon-nelson-304432277"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-block border border-[#d4c4a8] text-[#d4c4a8] px-8 py-3 rounded-full hover:bg-[#d4c4a8] hover:text-black transition duration-300"
+            >
+              More on SoundCloud
+            </a>
+          </div>
+        </div>
+      </section>
+
       {/* Lessons Section */}
       <section id="lessons" className="py-24 px-6 md:px-16 bg-[#161616]">
         <div className="max-w-6xl mx-auto grid md:grid-cols-2 gap-14 items-center">
