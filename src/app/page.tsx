@@ -21,20 +21,27 @@ export default function BrandonNelsonJazzSite() {
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <a
-              href="#shows"
-              className="border border-[#d4c4a8] px-8 py-3 hover:bg-[#d4c4a8] hover:text-black transition duration-300 rounded-full"
-            >
-              Upcoming Shows
-            </a>
+  <a
+    href="#listen"
+    className="border border-[#d4c4a8] px-8 py-3 hover:bg-[#d4c4a8] hover:text-black transition duration-300 rounded-full"
+  >
+    Listen
+  </a>
 
-            <a
-              href="#contact"
-              className="bg-[#d4c4a8] text-black px-8 py-3 rounded-full hover:opacity-90 transition duration-300"
-            >
-              Booking
-            </a>
-          </div>
+  <a
+    href="#shows"
+    className="border border-[#d4c4a8] px-8 py-3 hover:bg-[#d4c4a8] hover:text-black transition duration-300 rounded-full"
+  >
+    Upcoming Shows
+  </a>
+
+  <a
+    href="#contact"
+    className="bg-[#d4c4a8] text-black px-8 py-3 rounded-full hover:opacity-90 transition duration-300"
+  >
+    Booking
+  </a>
+</div>
         </div>
       </section>
 
