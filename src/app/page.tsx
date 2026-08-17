@@ -150,9 +150,49 @@ export default function BrandonNelsonJazzSite() {
               time: '7-9pm',
             },
             {
+              venue: 'Xport Lounge w/ Edan Krolewicz',
+              date: 'October 8th, 2026',
+              time: '7-9pm',
+            },
+            {
+              venue: 'Xport Lounge w/ Edan Krolewicz',
+              date: 'October 15th, 2026',
+              time: '7-9pm',
+            },
+            {
               venue: 'Jo Bar w/ Tip Top',
               date: 'October 18th, 2026',
               time: '7-10pm',
+            },
+            {
+              venue: 'Xport Lounge w/ Edan Krolewicz',
+              date: 'October 22nd, 2026',
+              time: '7-9pm',
+            },
+            {
+              venue: 'Xport Lounge w/ Edan Krolewicz',
+              date: 'October 29th, 2026',
+              time: '7-9pm',
+            },
+            {
+              venue: 'Xport Lounge w/ Edan Krolewicz',
+              date: 'November 12th, 2026',
+              time: '7-9pm',
+            },
+            {
+              venue: 'Xport Lounge w/ Edan Krolewicz',
+              date: 'November 19th, 2026',
+              time: '7-9pm',
+            },
+            {
+              venue: 'Xport Lounge w/ Edan Krolewicz',
+              date: 'December 10th, 2026',
+              time: '7-9pm',
+            },
+            {
+              venue: 'Xport Lounge w/ Edan Krolewicz',
+              date: 'December 17th, 2026',
+              time: '7-9pm',
             },
             {
               venue: 'Jo Bar w/ Tip Top',
