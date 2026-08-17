@@ -36,6 +36,15 @@ export default function BrandonNelsonJazzSite() {
   </a>
 
   <a
+    href="https://www.instagram.com/brandonnelsonmusic/"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="border border-[#d4c4a8] px-8 py-3 hover:bg-[#d4c4a8] hover:text-black transition duration-300 rounded-full"
+  >
+    Instagram
+  </a>
+
+  <a
     href="#contact"
     className="bg-[#d4c4a8] text-black px-8 py-3 rounded-full hover:opacity-90 transition duration-300"
   >
