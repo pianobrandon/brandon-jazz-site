@@ -100,31 +100,6 @@ export default function BrandonNelsonJazzSite() {
         <div className="max-w-4xl mx-auto space-y-6">
           {[
             {
-              venue: 'Forester Club, ID w/ Scott Pemberton',
-              date: 'August 21st, 2026',
-              time: '7-9pm',
-            },
-            {
-              venue: 'Music on the Mountain, ID w/ Scott Pemberton',
-              date: 'August 22nd, 2026',
-              time: '7-9pm',
-            },
-            {
-              venue: 'Concerts at Commons Beach, CA w/ Scott Pemberton',
-              date: 'August 23rd, 2026',
-              time: '7-9pm',
-            },
-            {
-              venue: 'Xport Lounge w/ Brigitta Teuscher',
-              date: 'August 27th, 2026',
-              time: '7-9pm',
-            },
-            {
-              venue: 'Thai Lahnna w/ Paula Byrne',
-              date: 'August 28th, 2026',
-              time: '5:30-8pm',
-            },
-            {
               venue: 'Guemes Island General Store w/ Scott Pemberton',
               date: 'September 5th, 2026',
               time: '7-9pm',
@@ -185,6 +160,11 @@ export default function BrandonNelsonJazzSite() {
               time: '7-9pm',
             },
             {
+              venue: 'Keys Lounge w/ Tip Top',
+              date: 'December 5th, 2026',
+              time: '10pm-midnight',
+            },
+            {
               venue: 'Xport Lounge w/ Edan Krolewicz',
               date: 'December 10th, 2026',
               time: '7-9pm',
@@ -198,6 +178,11 @@ export default function BrandonNelsonJazzSite() {
               venue: 'Jo Bar w/ Tip Top',
               date: 'December 20th, 2026',
               time: '7-10pm',
+            },
+            {
+              venue: 'Arrivederci w/Paula Byrne',
+              date: 'January 16th, 2027',
+              time: '7-9pm',
             },
           ].map((show, index) => (
             <div
