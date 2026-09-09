@@ -100,11 +100,6 @@ export default function BrandonNelsonJazzSite() {
         <div className="max-w-4xl mx-auto space-y-6">
           {[
             {
-              venue: 'Guemes Island General Store w/ Scott Pemberton',
-              date: 'September 5th, 2026',
-              time: '7-9pm',
-            },
-            {
               venue: 'Xport Lounge w/ Brigitta Teuscher',
               date: 'September 10th, 2026',
               time: '7-9pm',
