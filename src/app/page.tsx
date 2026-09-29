@@ -100,26 +100,6 @@ export default function BrandonNelsonJazzSite() {
         <div className="max-w-4xl mx-auto space-y-6">
           {[
             {
-              venue: 'Xport Lounge w/ Brigitta Teuscher',
-              date: 'September 10th, 2026',
-              time: '7-9pm',
-            },
-            {
-              venue: 'Mississippi Studios w/ Scott Pemberton',
-              date: 'September 11th, 2026',
-              time: '8-10pm',
-            },
-            {
-              venue: 'Blairally Vintage Arcade w/ Scott Pemberton',
-              date: 'September 12th, 2026',
-              time: '8-10pm',
-            },
-            {
-              venue: 'Xport Lounge w/ Brigitta Teuscher',
-              date: 'September 24th, 2026',
-              time: '7-9pm',
-            },
-            {
               venue: 'Xport Lounge w/ Edan Krolewicz',
               date: 'October 8th, 2026',
               time: '7-9pm',
