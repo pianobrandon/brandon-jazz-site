@@ -100,37 +100,12 @@ export default function BrandonNelsonJazzSite() {
         <div className="max-w-4xl mx-auto space-y-6">
           {[
             {
-              venue: 'Xport Lounge w/ Edan Krolewicz',
-              date: 'October 8th, 2026',
-              time: '7-9pm',
-            },
-            {
-              venue: 'Xport Lounge w/ Edan Krolewicz',
-              date: 'October 15th, 2026',
-              time: '7-9pm',
-            },
-            {
-              venue: 'Jo Bar w/ Tip Top',
-              date: 'October 18th, 2026',
-              time: '7-10pm',
-            },
-            {
-              venue: 'Xport Lounge w/ Edan Krolewicz',
-              date: 'October 22nd, 2026',
-              time: '7-9pm',
-            },
-            {
-              venue: 'Xport Lounge w/ Edan Krolewicz',
-              date: 'October 29th, 2026',
-              time: '7-9pm',
-            },
-            {
-              venue: 'Xport Lounge w/ Edan Krolewicz',
+              venue: 'Xport Lounge w/ Zach Connolly',
               date: 'November 12th, 2026',
               time: '7-9pm',
             },
             {
-              venue: 'Xport Lounge w/ Edan Krolewicz',
+              venue: 'Xport Lounge w/ Zach Connolly',
               date: 'November 19th, 2026',
               time: '7-9pm',
             },
@@ -158,6 +133,10 @@ export default function BrandonNelsonJazzSite() {
               venue: 'Arrivederci w/Paula Byrne',
               date: 'January 16th, 2027',
               time: '7-9pm',
+              {
+                venue: 'Christos w/Paula Byrne',
+                date: 'March 21st, 2027',
+                time: '7-9pm',
             },
           ].map((show, index) => (
             <div
