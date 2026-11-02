@@ -99,6 +99,7 @@ export default function BrandonNelsonJazzSite() {
 
         <div className="max-w-4xl mx-auto space-y-6">
           {[
+       
             {
               venue: 'Xport Lounge w/ Zach Connolly',
               date: 'November 12th, 2026',
@@ -133,10 +134,11 @@ export default function BrandonNelsonJazzSite() {
               venue: 'Arrivederci w/Paula Byrne',
               date: 'January 16th, 2027',
               time: '7-9pm',
-              {
-                venue: 'Christos w/Paula Byrne',
-                date: 'March 21st, 2027',
-                time: '7-9pm',
+            },
+            {
+              venue: 'Christos w/ Paula Byrne',
+              date: 'March 21st, 2027',
+              time: '7-9pm',
             },
           ].map((show, index) => (
             <div
