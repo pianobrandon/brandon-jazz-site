@@ -99,12 +99,6 @@ export default function BrandonNelsonJazzSite() {
 
         <div className="max-w-4xl mx-auto space-y-6">
           {[
-       
-            {
-              venue: 'Xport Lounge w/ Zach Connolly',
-              date: 'November 12th, 2026',
-              time: '7-9pm',
-            },
             {
               venue: 'Xport Lounge w/ Zach Connolly',
               date: 'November 19th, 2026',
